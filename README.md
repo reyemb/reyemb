@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reyemb
 - 👀 I’m interested in machine learning, statistics, data engineering
-- 🌱 I’m currently developing a better understand in developing webprojects 
+- 🌱 I’m currently enhance my skills in webdevelopment
 - 💞️ I’m looking to collaborate on DataScience Projects and projects non monetarzied projects
 
 <!---
