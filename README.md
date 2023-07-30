@@ -1,7 +1,7 @@
-👋 Hi, I'm @reyemb.
-👀 I'm interested in machine learning, statistics, data engineering, and IIoT.
-🌱 I'm currently enhancing my skills in web development.
-💞️ I'm looking to collaborate on non-monetized projects.
+- 👋 Hi, I'm @reyemb.
+- 👀 I'm interested in machine learning, statistics, data engineering, and IIoT.
+- 🌱 I'm currently enhancing my skills in web development.
+- 💞️ I'm looking to collaborate on non-monetized projects.
 
 
 
