@@ -12,7 +12,8 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 - **Python:** FastAPI, Prefect, Pandas, Scikit-learn, Statsmodels, LightGBM (Forecasting & ML)
 
 ### Frontend
-- **JavaScript:** React, Astro, HTML, CSS
+- **React**
+  **Astro**
 
 ### Databases
 - PostgreSQL, PostGIS, TimescaleDB, Redis
