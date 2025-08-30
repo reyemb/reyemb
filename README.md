@@ -25,11 +25,11 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 
 ### Enterprise Systems
 - **SAP:** Integration & Data Processing
-- **Abacus:** Swiss ERP system expertise
+- **Abacus:** Swiss ERP system
 
 ### BI & Data Visualization
 - **Microsoft Power BI** (incl. Custom Visuals)
-  - Microsoft Certified: Power BI Data Analyst Associate
+- **Microsoft Certified**: Power BI Data Analyst Associate
 
 ### AI & Machine Learning
 - **LLMs:** Google Gemini
