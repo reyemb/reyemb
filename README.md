@@ -10,14 +10,9 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 
 | **📊 Data Science & AI** | **⚙️ Backend & Engineering** |
 | :--- | :--- |
-| **ML & Stats:** Python (Pandas, Scikit-learn, Statsmodels, LightGBM) | **Core:** Python (FastAPI), Prefect (Orchestration) |
-| **GenAI:** Google Gemini, RAG Systems, Vectorization | **Data Store:** PostgreSQL, PostGIS, TimescaleDB, Redis |
-| **BI:** Power BI (DAX, Custom Visuals) | **Enterprise:** SAP Integration, Abacus ERP |
-
+| **ML & Stats:** Python (Pandas, Scikit-learn, LightGBM)<br>**GenAI:** Google Gemini, RAG Systems, Vectorization<br>**BI:** Power BI (DAX, Custom Visuals) | **Core:** Python (FastAPI), Prefect (Orchestration)<br>**Data Store:** PostgreSQL, PostGIS, TimescaleDB, Redis<br>**Enterprise:** SAP Integration, Abacus ERP |
 | **☁️ Cloud & Security** | **💻 Frontend & Web** |
-| :--- | :--- |
-| **Platform:** Microsoft Azure (Data Eng. Assoc.), GCP (Cloud Run) | **Frameworks:** React (TypeScript), Next.js, Astro |
-| **Security:** Keycloak (IAM/SSO) | **Focus:**  BI & SSoT|
+| **Platform:** Azure (Data Eng. Assoc.), GCP (Cloud Run)<br>**Security:** Keycloak (IAM/SSO) | **Frameworks:** React (TypeScript), Next.js, Astro<br>**Focus:** Operational BI & Integrated Workflows |
 
 ---
 
