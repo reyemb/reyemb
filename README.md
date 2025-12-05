@@ -6,36 +6,18 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Technology Stack
 
-### Backend & Automation
-- **Python:** FastAPI, Prefect, Pandas, Scikit-learn, Statsmodels, LightGBM (Forecasting & ML)
+| **📊 Data Science & AI** | **⚙️ Backend & Engineering** |
+| :--- | :--- |
+| **ML & Stats:** Python (Pandas, Scikit-learn, Statsmodels, LightGBM) | **Core:** Python (FastAPI), Prefect (Orchestration) |
+| **GenAI:** Google Gemini, RAG Systems, Vectorization | **Data Store:** PostgreSQL, PostGIS, TimescaleDB, Redis |
+| **BI:** Power BI (DAX, Custom Visuals) | **Enterprise:** SAP Integration, Abacus ERP |
 
-### Frontend
-- **React.ts**
-- **Astro**
-- **Next.js**
-
-### Databases
-- PostgreSQL, PostGIS, TimescaleDB, Redis
-
-### Cloud & DevOps
-- **Microsoft Azure** (Data Engineer Associate) - Primary focus
-- **Google Cloud Platform:** Firebase, Cloud Run
-- **Identity & Access Management:** Keycloak
-
-### Enterprise Systems
-- **SAP:** Integration & Data Processing
-- **Abacus:** Swiss ERP system
-
-### BI & Data Visualization
-- **Microsoft Power BI** (incl. Custom Visuals)
-- **Microsoft Certified**: Power BI Data Analyst Associate
-
-### AI & Machine Learning
-- **LLMs:** Google Gemini
-- **RAG Systems** & **Vectorization**
-- **Forecasting:** Time series analysis with Statsmodels, Scikit-learn, LightGBM
+| **☁️ Cloud & Security** | **💻 Frontend & Web** |
+| :--- | :--- |
+| **Platform:** Microsoft Azure (Data Eng. Assoc.), GCP (Cloud Run) | **Frameworks:** React (TypeScript), Next.js, Astro |
+| **Security:** Keycloak (IAM/SSO) | **Focus:**  BI & SSoT|
 
 ---
 
