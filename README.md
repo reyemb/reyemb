@@ -14,7 +14,7 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 ### Frontend
 - **React.ts**
 - **Astro**
-- **Next.js (but with Typscript)**
+- **Next.js**
 
 ### Databases
 - PostgreSQL, PostGIS, TimescaleDB, Redis
