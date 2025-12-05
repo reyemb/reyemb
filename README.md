@@ -12,8 +12,9 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 - **Python:** FastAPI, Prefect, Pandas, Scikit-learn, Statsmodels, LightGBM (Forecasting & ML)
 
 ### Frontend
-- **React**
+- **React.ts**
 - **Astro**
+- **Next.js (but with Typscript)**
 
 ### Databases
 - PostgreSQL, PostGIS, TimescaleDB, Redis
@@ -47,7 +48,8 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 
 ### Currently Exploring
 - **Rust:** For high-performance, memory-safe systems programming
-- **Astro:** For building modern, content-focused, and highly performant web platforms
+- **Astro:** For building modern, content-focused, and highly performant web platforms (content)
+- **Next.js:** For building full-stack React apps with server rendering, routing, and backend features (application)
 
 ---
 
