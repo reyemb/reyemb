@@ -39,17 +39,17 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 
 ---
 
-## 🌱 What I'm Currently Working On & Exploring
+## 🌱 Current Focus
+Architecture: Building a secure, service-oriented IT architecture.
 
-### Current Projects
-- Building a secure, service-oriented IT architecture from the ground up
-- Developing a custom RAG system for intelligent knowledge extraction
-- Orchestrating and automating over 40 distinct data pipelines
+RAG Systems: Developing custom extraction logic for intelligent knowledge bases.
 
-### Currently Exploring
-- **Rust:** For high-performance, memory-safe systems programming
-- **Astro:** For building modern, content-focused, and highly performant web platforms (content)
-- **Next.js:** For building full-stack React apps with server rendering, routing, and backend features (application)
+Orchestration: Automating 40+ distinct data pipelines.
+
+## 🚀 Exploring
+- 🦀**Rust:** For high-performance, memory-safe systems programming
+- 🚀**Astro:** For building modern, content-focused, and highly performant web platforms (content)
+- ⚛️**Next.js:** For building full-stack React apps with server rendering, routing, and backend features (application)
 
 ---
 
