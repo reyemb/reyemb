@@ -1,10 +1,14 @@
+<div align="center">
+
 # Hi, I'm Reyemb! 👋
+### Strategic Full-Stack Developer | Data & AI Specialist
+*Transforming complex business logic into performant code — from sensor to dashboard.*
 
-## Strategic Full-Stack Developer with a Focus on Data & AI
-
-I design and build robust, scalable IT solutions guided by a clear "Open Source first" philosophy. My passion lies in transforming complex business logic into performant code, creating end-to-end systems from **sensor to dashboard (IIoT)**, and building data pipelines that deliver real value to the end-user.
+</div>
 
 ---
+
+> I design and build robust, scalable IT solutions guided by a clear **"Open Source first"** philosophy. My passion lies in building data pipelines that deliver real value to the end-user, creating end-to-end systems from **sensor to dashboard (IIoT)**.
 
 ## 🛠️ Technology Stack
 
@@ -17,20 +21,20 @@ I design and build robust, scalable IT solutions guided by a clear "Open Source 
 ---
 
 ## 🌱 Current Focus
-Architecture: Building a secure, service-oriented IT architecture.
-
-RAG Systems: Developing custom extraction logic for intelligent knowledge bases.
-
-Orchestration: Automating 40+ distinct data pipelines.
+* 🏗️ **Architecture:** Building a secure, service-oriented IT architecture from the ground up.
+* 🧠 **RAG Systems:** Developing custom extraction logic for intelligent knowledge bases.
+* ⚙️ **Orchestration:** Automating and optimizing 40+ distinct data pipelines.
 
 ## 🚀 Exploring
-- 🦀**Rust:** For high-performance, memory-safe systems programming
-- 🚀**Astro:** For building modern, content-focused, and highly performant web platforms (content)
-- ⚛️**Next.js:** For building full-stack React apps with server rendering, routing, and backend features (application)
+* 🦀 **Rust:** For high-performance, memory-safe systems programming.
+* 🚀 **Astro:** For building modern, content-focused web platforms.
+* ⚛️ **Next.js:** For complex full-stack applications with server-side rendering.
 
 ---
 
-## 📫 Get in Touch
+<div align="center">
 
-- **LinkedIn:** [reyemb](https://www.linkedin.com/in/reyemb/)
-- **Matrix:** @reyemb:matrix.org
+### 📫 Get in Touch
+[LinkedIn](https://www.linkedin.com/in/reyemb/) • [Matrix (@reyemb:matrix.org)](https://matrix.to/#/@reyemb:matrix.org)
+
+</div>
