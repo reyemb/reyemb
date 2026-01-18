@@ -31,28 +31,6 @@ I design and build robust, scalable IT solutions with a focus on data engineerin
 
 **Cloud:** Azure (Data Engineering Associate), GCP
 
-## Current Role
-
-### Technical Project Leadership & Infrastructure Architecture
-- **Container Orchestration:** Building and operating modern container-based infrastructure with Podman for microservices
-- **AI Implementation:** Deploying internal AI platform (LibreChat) and integrating LLMs into business processes
-- **Security & IAM:** Implementing security standards via Keycloak and OpenID Connect
-- **DevOps & CI/CD:** GitHub Actions pipelines, automated backups, and monitoring
-
-### Data Engineering & Information Architecture
-- **ETL Pipelines:** 40+ automated data pipelines with Prefect, integrating sources like GWR, Google Analytics, LinkedIn, Mailchimp, Open Data, geodata, and 3D building models
-- **Architecture:** "Single Source of Truth" based on PostGIS
-- **Data Modeling:** Complex structures for GIS and reporting
-
-### Solution Design & Full-Stack Development
-- **Frontend:** React, TypeScript, Next.js for public platforms (pv-kampagne.ch, heizungsersatz-kampagne.ch, eeagentur.ch) and internal tools (budget management, Kanban boards, analytics dashboards)
-- **Backend:** Scalable FastAPI backends optimized with Redis and PgBouncer
-
-### Business Intelligence & Process Automation
-- **Dashboards:** Marketing KPIs, financial data, process bottleneck analysis, project cockpit
-- **Automation:** Quarterly reports with ReportLab, data enrichment, notification systems
-- **Data Science:** Decision support models (e.g., self-consumption scenarios)
-
 ## Featured Open Source Projects
 
 | Project | Description | Stars |
