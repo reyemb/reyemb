@@ -1,40 +1,51 @@
 <div align="center">
 
-# Hi, I'm Reyemb! 👋
-### Strategic Full-Stack Developer | Data & AI Specialist
-*Transforming complex business logic into performant code — from sensor to dashboard.*
+# Hi, I'm Reyemb!
+
+**Full-Stack Developer | Data & AI Specialist**
+
+*Building data pipelines from sensor to dashboard with an Open Source first approach.*
+
+[![Location](https://img.shields.io/badge/Zurich-Switzerland-blue)](https://github.com/reyemb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/reyemb/)
 
 </div>
 
 ---
 
-> I design and build robust, scalable IT solutions guided by a clear **"Open Source first"** philosophy. My passion lies in building data pipelines that deliver real value to the end-user, creating end-to-end systems from **sensor to dashboard (IIoT)**.
+## About Me
 
-## 🛠️ Technology Stack
+I design and build robust, scalable IT solutions with a focus on Industrial IoT (IIoT) and data engineering. My work spans the entire stack from sensor data collection to interactive dashboards.
 
-| **📊 Data Science & AI** | **⚙️ Backend & Engineering** |
-| :--- | :--- |
-| **ML & Stats:** Python (Pandas, Scikit-learn, LightGBM)<br>**GenAI:** Google Gemini, RAG Systems, Vectorization<br>**BI:** Power BI (DAX, Custom Visuals) | **Core:** Python (FastAPI), Prefect (Orchestration)<br>**Data Store:** PostgreSQL, PostGIS, TimescaleDB, Redis<br>**Enterprise:** SAP Integration, Abacus ERP |
-| **☁️ Cloud & Security** | **💻 Frontend & Web** |
-| **Platform:** Azure (Data Eng. Assoc.), GCP (Cloud Run)<br>**Security:** Keycloak (IAM/SSO) | **Frameworks:** React (TypeScript), Next.js, Astro<br>**Focus:** Operational BI & Integrated Workflows |
+## Tech Stack
 
----
+**Data & AI:** Python, Pandas, Scikit-learn, LightGBM, Google Gemini, RAG Systems
 
-## 🌱 Current Focus
-* 🏗️ **Architecture:** Building a secure, service-oriented IT architecture from the ground up.
-* 🧠 **RAG Systems:** Developing custom extraction logic for intelligent knowledge bases.
-* ⚙️ **Orchestration:** Automating and optimizing 40+ distinct data pipelines.
+**Backend:** FastAPI, Prefect, PostgreSQL, TimescaleDB, Redis
 
-## 🚀 Exploring
-* 🦀 **Rust:** For high-performance, memory-safe systems programming.
-* 🚀 **Astro:** For building modern, content-focused web platforms.
-* ⚛️ **Next.js:** For complex full-stack applications with server-side rendering.
+**Frontend:** React, TypeScript, Next.js, Astro
+
+**Cloud & DevOps:** Azure (Data Engineering Associate), GCP, Keycloak
+
+**BI & Visualization:** Power BI (DAX, Custom Visuals), Streamlit
+
+## Featured Projects
+
+- [**streamlit-mapbox-events**](https://github.com/reyemb/Streamlit-Component-Mapbox-Events) - Interactive Mapbox component for Streamlit with click, select, hover events
+- [**oss-aisexplorer**](https://github.com/reyemb/oss-aisexplorer) - Marine vessel identification and tracking tool
+- [**powerbi-visual-events**](https://github.com/reyemb/powerbi-visual-events) - Real-time machine status monitoring for Power BI
+
+## Current Focus
+
+- Building secure, service-oriented IT architecture
+- Developing RAG systems with custom extraction logic
+- Orchestrating 40+ data pipelines with Prefect
+- Learning Rust for high-performance systems
 
 ---
 
 <div align="center">
 
-### 📫 Get in Touch
-[LinkedIn](https://www.linkedin.com/in/reyemb/) • [Matrix (@reyemb:matrix.org)](https://matrix.to/#/@reyemb:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix-@reyemb:matrix.org-000000)](https://matrix.to/#/@reyemb:matrix.org)
 
 </div>
