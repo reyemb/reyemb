@@ -64,8 +64,18 @@ I design and build robust, scalable IT solutions with a focus on data engineerin
 
 ## Certifications
 
-- **iSAQB Certified Professional for Software Architecture** (Foundation Level)
-- **Azure Data Engineering Associate**
+| Certification | Issuer | Year |
+|:--------------|:-------|:-----|
+| iSAQB CPSA-F (Software Architecture) | iSAQB | 2025 |
+| Azure Data Engineer Associate | Microsoft | 2024 |
+| Power BI Data Analyst Associate | Microsoft | 2023 |
+| Azure Data Fundamentals | Microsoft | 2023 |
+| Power Platform Fundamentals | Microsoft | 2023 |
+| Professional Scrum Master I (PSM I) | Scrum.org | 2022 |
+| Azure Fundamentals | Microsoft | 2021 |
+| Energy Within Environmental Constraints | edX | 2024 |
+| SAP S/4HANA (TS410, CO, ABAP) | TH Brandenburg | 2020-21 |
+| RPA Advanced Developer | UiPath | 2020 |
 
 ---
 
