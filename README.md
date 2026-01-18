@@ -2,11 +2,11 @@
 
 # Hi, I'm Reyemb!
 
-**Full-Stack Developer | Data & AI Specialist**
+**Full-Stack Developer | Data & AI Specialist | iSAQB CPSA-F**
 
 *Building data pipelines from sensor to dashboard with an Open Source first approach.*
 
-[![Location](https://img.shields.io/badge/Zurich-Switzerland-blue)](https://github.com/reyemb)
+[![Location](https://img.shields.io/badge/St.%20Gallen-Switzerland-blue)](https://github.com/reyemb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/reyemb/)
 
 </div>
@@ -15,32 +15,57 @@
 
 ## About Me
 
-I design and build robust, scalable IT solutions with a focus on Industrial IoT (IIoT) and data engineering. My work spans the entire stack from sensor data collection to interactive dashboards.
+I design and build robust, scalable IT solutions with a focus on data engineering, business intelligence, and full-stack development. Currently working as Project Manager IT / Full-Stack Developer at an energy agency in St. Gallen, Switzerland.
 
 ## Tech Stack
 
-**Data & AI:** Python, Pandas, Scikit-learn, LightGBM, Google Gemini, RAG Systems
+**Data & AI:** Python, Pandas, Prefect (40+ ETL pipelines), PostGIS, LLMs, RAG Systems, LibreChat
 
-**Backend:** FastAPI, Prefect, PostgreSQL, TimescaleDB, Redis
+**Backend:** FastAPI, PostgreSQL, Redis, PgBouncer, TimescaleDB
 
 **Frontend:** React, TypeScript, Next.js, Astro
 
-**Cloud & DevOps:** Azure (Data Engineering Associate), GCP, Keycloak
+**DevOps & Infra:** Podman, GitHub Actions, Keycloak, OpenID Connect, Codacy
 
-**BI & Visualization:** Power BI (DAX, Custom Visuals), Streamlit
+**BI & Visualization:** Power BI (DAX, Custom Visuals), Streamlit, ReportLab
 
-## Featured Projects
+**Cloud:** Azure (Data Engineering Associate), GCP
 
-- [**streamlit-mapbox-events**](https://github.com/reyemb/Streamlit-Component-Mapbox-Events) - Interactive Mapbox component for Streamlit with click, select, hover events
-- [**oss-aisexplorer**](https://github.com/reyemb/oss-aisexplorer) - Marine vessel identification and tracking tool
-- [**powerbi-visual-events**](https://github.com/reyemb/powerbi-visual-events) - Real-time machine status monitoring for Power BI
+## Current Role
 
-## Current Focus
+### Technical Project Leadership & Infrastructure Architecture
+- **Container Orchestration:** Building and operating modern container-based infrastructure with Podman for microservices
+- **AI Implementation:** Deploying internal AI platform (LibreChat) and integrating LLMs into business processes
+- **Security & IAM:** Implementing security standards via Keycloak and OpenID Connect
+- **DevOps & CI/CD:** GitHub Actions pipelines, automated backups, and monitoring
 
-- Building secure, service-oriented IT architecture
-- Developing RAG systems with custom extraction logic
-- Orchestrating 40+ data pipelines with Prefect
-- Learning Rust for high-performance systems
+### Data Engineering & Information Architecture
+- **ETL Pipelines:** 40+ automated data pipelines with Prefect, integrating sources like GWR, Google Analytics, LinkedIn, Mailchimp, Open Data, geodata, and 3D building models
+- **Architecture:** "Single Source of Truth" based on PostGIS
+- **Data Modeling:** Complex structures for GIS and reporting
+
+### Solution Design & Full-Stack Development
+- **Frontend:** React, TypeScript, Next.js for public platforms (pv-kampagne.ch, heizungsersatz-kampagne.ch, eeagentur.ch) and internal tools (budget management, Kanban boards, analytics dashboards)
+- **Backend:** Scalable FastAPI backends optimized with Redis and PgBouncer
+
+### Business Intelligence & Process Automation
+- **Dashboards:** Marketing KPIs, financial data, process bottleneck analysis, project cockpit
+- **Automation:** Quarterly reports with ReportLab, data enrichment, notification systems
+- **Data Science:** Decision support models (e.g., self-consumption scenarios)
+
+## Featured Open Source Projects
+
+| Project | Description | Stars |
+|:--------|:------------|:------|
+| [streamlit-component-mapbox-events](https://github.com/reyemb/streamlit-component-mapbox-events) | Interactive Mapbox component for Streamlit with click, select, hover events | 31 |
+| [oss-aisexplorer](https://github.com/reyemb/oss-aisexplorer) | Marine vessel identification and tracking tool | 29 |
+| [powerbi-visual-events](https://github.com/reyemb/powerbi-visual-events) | Real-time machine status monitoring for Power BI | 3 |
+| [powerbi-visual-histogram](https://github.com/reyemb/powerbi-visual-histogram) | Enhanced histogram visual with multilanguage support | 1 |
+
+## Certifications
+
+- **iSAQB Certified Professional for Software Architecture** (Foundation Level)
+- **Azure Data Engineering Associate**
 
 ---
 
