@@ -35,8 +35,8 @@ I design and build robust, scalable IT solutions with a focus on data engineerin
 
 | Project | Description | Stars |
 |:--------|:------------|:------|
-| [streamlit-component-mapbox-events](https://github.com/reyemb/streamlit-component-mapbox-events) | Interactive Mapbox component for Streamlit with click, select, hover events | 31 |
-| [oss-aisexplorer](https://github.com/reyemb/oss-aisexplorer) | Marine vessel identification and tracking tool | 29 |
+| [streamlit-component-mapbox-events](https://github.com/reyemb/streamlit-component-mapbox-events) | Interactive Mapbox component for Streamlit with click, select, hover events | 38 |
+| [oss-aisexplorer](https://github.com/reyemb/oss-aisexplorer) | Marine vessel identification and tracking tool | 31 |
 | [powerbi-visual-events](https://github.com/reyemb/powerbi-visual-events) | Real-time machine status monitoring for Power BI | 3 |
 | [powerbi-visual-histogram](https://github.com/reyemb/powerbi-visual-histogram) | Enhanced histogram visual with multilanguage support | 1 |
 
